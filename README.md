@@ -1,4 +1,4 @@
-# Kernel Driver- Device Driver-LKM
+# Device Driver-LKM ( Loadable Kernel Module ) - Kernel Driver
 This repo includes 3 projects.
   - simple_module: Hello world project.
   - char_drvr1: character device null driver which needs manually created /dev file.
